@@ -1,0 +1,12 @@
+[project]
+name = "openclaw-genpark-price-tracker"
+version = "1.0.0"
+description = "Monitors multi-channel SKU pricing deltas, calculates historical price drops, and fires automated bargain alerts"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
