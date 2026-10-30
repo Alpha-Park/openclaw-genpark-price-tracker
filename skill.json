@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-genpark-price-tracker",
+  "version": "1.0.0",
+  "description": "Monitors multi-channel SKU pricing deltas, calculates historical price drops, and fires automated bargain alerts",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
